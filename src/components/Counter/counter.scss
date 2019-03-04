@@ -1,0 +1,10 @@
+@import 'src/styles/vars';
+
+#todo-counter {
+  color: $counter-color;
+  font-size: 1.6em;
+  font-weight: 700;
+  border-bottom: 1px solid $counter-border-color;
+  margin: 2em 0 1em;
+  padding-bottom: .4em
+}

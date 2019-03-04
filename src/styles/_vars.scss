@@ -1,0 +1,21 @@
+/* Variables SCSS */
+
+// Fonctions utilitaires : http://sass-lang.com/documentation/Sass/Script/Functions.html
+
+// Global
+$bg-color: #2e5849;
+
+// Formulaire
+$bg-form: darken($bg-color, 10%);
+$border-color-form: darken($bg-color, 15%);
+$box-shadow-normal: rgba(0,0,0,.1);
+$box-shadow-focus: rgba(0,0,0,.5);
+
+// Counter
+$counter-color: #fff;
+$counter-border-color: #fff;
+
+// Tasks
+$task-bg-color: #eee;
+$task-border-color: #ccc;
+$task-done-opacity: .5;
